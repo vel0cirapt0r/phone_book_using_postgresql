@@ -19,7 +19,7 @@ Welcome to the Contact Management System repository! This Python application all
 
 Clone the repository to your local machine using the following command:
 
-git clone <repository_url>
+git clone "https://github.com/vel0cirapt0r/phone_book_using_postgresql.git"
 Then, install the required Python packages by navigating to the project directory and running:
 
 pip install -r requirements.txt
